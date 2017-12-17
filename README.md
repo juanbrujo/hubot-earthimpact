@@ -1,4 +1,4 @@
-# Hubot Sentry
+# Hubot Earth Impact
 
 **Get the potential future Earth impact events from an alien object that has been detected based on currently available observations.**
 
@@ -7,7 +7,7 @@ Data from [https://cneos.jpl.nasa.gov/sentry/](https://cneos.jpl.nasa.gov/sentry
 ### Install:
 
 ````
-$ npm install hubot-sentry --save
+$ npm install hubot-earthimpact --save
 ````
 
 Add in `external-scripts.json`:
@@ -15,7 +15,7 @@ Add in `external-scripts.json`:
 ````
 [
   ..
-  "hubot-sentry"
+  "hubot-earthimpact"
 ]
 ````
 
