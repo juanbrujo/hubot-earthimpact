@@ -1,11 +1,11 @@
 {
-  "name": "hubot-sentry",
+  "name": "hubot-earthimpact",
   "version": "0.0.1",
   "description": "Get the potential future Earth impact events from an alien object that has been detected based on currently available observations",
   "main": "sentry.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juanbrujo/hubot-sentry.git"
+    "url": "git+https://github.com/juanbrujo/hubot-earthimpact.git"
   },
   "keywords": [
     "hubot",
@@ -16,7 +16,7 @@
   "author": "@juanbrujo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/juanbrujo/hubot-sentry/issues"
+    "url": "https://github.com/juanbrujo/hubot-earthimpact/issues"
   },
-  "homepage": "https://github.com/juanbrujo/hubot-sentry#readme"
+  "homepage": "https://github.com/juanbrujo/hubot-earthimpact#readme"
 }
